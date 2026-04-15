@@ -5,7 +5,7 @@
 <h1 align="center">Darshan Adinath here!!</h1>
 
 # 💫 About Me:
-💻 Computer Science & Engineering student at vidya vardhaka College of Engineering and mysuru,mysuru .<br>⚙️ Hands-on experience with AI, IoT systems, embedded devices, and full-stack development.<br>🚀 Product developer at Dexes Edtech – building a scalable LMS platform.<br>🛰️ Product developer at Agnihotri Aerospace – contributed to rocket design and avionics.<br>🛵 Creator of AeroWave – an AI-powered smart helmet for deaf riders.<br>📈 Achievements include multiple patent filings and national-level project recognition.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
+💻 Computer Science & Engineering student at vidya vardhaka College of Engineering and mysuru,mysuru 
 
 
 ## 🌐 Socials:
